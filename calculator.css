@@ -1,0 +1,9 @@
+.calculator {
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.dropdown-list {
+  display: none;
+}
